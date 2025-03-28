@@ -144,6 +144,16 @@ A customer contacts FinServe via the portal to report an unauthorized transactio
 
 ---
 
+## **Image Slide**
+![AI-Powered Customer Service](https://example.com/your-image.jpg)
+
+---
+
+## **Watch the Video for More Insights**
+🎥 [Click here to watch on YouTube](https://www.youtube.com/your-video-link)
+
+---
+
 ### **Conclusion:**
 
 This project leverages multiple **Salesforce Einstein AI tools** to optimize customer service operations for FinServe, delivering faster resolutions, improving agent performance, and increasing customer satisfaction.
