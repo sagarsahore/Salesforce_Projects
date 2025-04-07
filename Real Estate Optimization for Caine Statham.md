@@ -2,6 +2,8 @@
 
 **Client:** Caine Statham, a leading real estate agency in Wellington, New Zealand.
 
+**Role:** Salesforce Administrator
+
 **Problem Statement:** Caine Statham is experiencing rapid growth, leading to challenges in managing leads, tracking properties, and ensuring efficient deal closure. Their existing system struggles with data silos, manual processes, and limited reporting capabilities.
 
 **Key Challenges:**
