@@ -44,10 +44,14 @@ Here are some screenshots of the dashboards you can expect to see after deployme
 
 <div style="display: flex; justify-content: space-around;">
 
-  <img src="images/dashboard_top_rated_movies.png" alt="Top Rated Movies Dashboard" width="45%" />
-  <img src="images/dashboard_movie_trends.png" alt="Movie Trends Dashboard" width="45%" />
+  <img src="image.png" alt="Top Rated Movies Dashboard" width="45%" /> </div>
+  
+Click on the video to watch how project works:
 
-</div>
+[![Watch the demo video](https://img.youtube.com/vi/CGQQpwmo6bc/0.jpg)](https://www.youtube.com/watch?v=CGQQpwmo6bc)
+
+
+
 
 ---
 
